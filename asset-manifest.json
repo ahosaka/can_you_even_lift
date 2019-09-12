@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/can_you_even_lift/static/css/main.d4189a9b.chunk.css",
+    "main.js": "/can_you_even_lift/static/js/main.0c12397a.chunk.js",
+    "main.js.map": "/can_you_even_lift/static/js/main.0c12397a.chunk.js.map",
+    "runtime~main.js": "/can_you_even_lift/static/js/runtime~main.c92cc8cb.js",
+    "runtime~main.js.map": "/can_you_even_lift/static/js/runtime~main.c92cc8cb.js.map",
+    "static/css/2.58e42683.chunk.css": "/can_you_even_lift/static/css/2.58e42683.chunk.css",
+    "static/js/2.8b22e36b.chunk.js": "/can_you_even_lift/static/js/2.8b22e36b.chunk.js",
+    "static/js/2.8b22e36b.chunk.js.map": "/can_you_even_lift/static/js/2.8b22e36b.chunk.js.map",
+    "index.html": "/can_you_even_lift/index.html",
+    "precache-manifest.4d3a35817573655aa92593cabf4ade3e.js": "/can_you_even_lift/precache-manifest.4d3a35817573655aa92593cabf4ade3e.js",
+    "service-worker.js": "/can_you_even_lift/service-worker.js",
+    "static/css/2.58e42683.chunk.css.map": "/can_you_even_lift/static/css/2.58e42683.chunk.css.map",
+    "static/css/main.d4189a9b.chunk.css.map": "/can_you_even_lift/static/css/main.d4189a9b.chunk.css.map",
+    "static/media/logo.svg": "/can_you_even_lift/static/media/logo.5d5d9eef.svg"
+  }
+}
