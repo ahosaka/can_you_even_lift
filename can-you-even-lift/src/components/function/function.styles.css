@@ -1,0 +1,40 @@
+
+p {
+  font-family: 'Press Start 2P', cursive;
+  font-size:20px;
+}
+
+.plates_detail{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  position: relative;
+
+}
+
+.plates_table{
+  text-align: left;
+
+}
+
+.total_result{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  position: relative;
+
+}
+
+.result_table{
+
+  table-layout: fixed;
+  text-align: center;
+
+}
+.total_num{
+  text-align: left;
+}

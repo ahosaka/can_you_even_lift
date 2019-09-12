@@ -1,0 +1,11 @@
+.SearchBox {
+  appearance: none;
+  border: none;
+  outline: none;
+  padding: 20px;
+  width: 550px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  font-family: 'Press Start 2P', cursive;
+  font-size:36px;
+}
