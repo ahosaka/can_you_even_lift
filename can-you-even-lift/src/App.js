@@ -7,6 +7,7 @@ import InputRange from 'react-input-range';
 // import {Card} from './components/card/card.component'
 import {SearchBox} from './components/search-box/search-box.component'
 import {Barbell} from './components/barbell/barbell.component'
+import {Trainee} from './components/trainee/trainee.component'
 
 import logo from './logo.svg';
 import './App.css';
@@ -84,8 +85,12 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+
         <h1>Can you even lift?</h1>
         <h4 className = "sub_title">Convert Pound to Weight Lifting Plates</h4>
+
+
+
         <FilteredWeights
             searchField = {this.state.value}
             newWeightsDict = {this.state}
@@ -106,12 +111,11 @@ class App extends Component {
 
 
           </div>
+          <Trainee newWeightsDict = {this.state}/>
 
 
 
 
-
-          <Barbell newWeightsDict = {this.state}/>
 
           <FilteredWeightsResult newWeightsDict = {this.state}/>
 
@@ -121,11 +125,13 @@ class App extends Component {
         </header>
         <br/>
           <footer>
+
             <img src={logo} className="App-logo" alt="logo" />
             <p>Created by: Atsushi Hosaka with ReactJS</p>
             <p>Contact information: <a href="https://github.com/ahosaka">
             https://github.com/ahosaka</a>.</p>
           </footer>
+
 
       </div>
 
@@ -153,3 +159,6 @@ export default App;
 
 // export default HorizontalCustomLabels
 
+
+
+          // <Barbell newWeightsDict = {this.state}/>

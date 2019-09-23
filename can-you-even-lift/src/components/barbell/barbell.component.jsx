@@ -7,8 +7,6 @@ import './barbell.styles.css';
 export const Barbell = props => {
     // console.log(props.newWeightsDict)
 
-
-
     var newWeightsDict = props.newWeightsDict.weights
     var plate_left = [];
     var plate_right = [];
