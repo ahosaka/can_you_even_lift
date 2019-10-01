@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/can_you_even_lift/precache-manifest.049afc77947e8840fe0c0a9110fc2c6e.js"
+  "/can_you_even_lift/precache-manifest.3dd74ee31c2e360f1f4fe01dedd27b38.js"
 );
 
 self.addEventListener('message', (event) => {
