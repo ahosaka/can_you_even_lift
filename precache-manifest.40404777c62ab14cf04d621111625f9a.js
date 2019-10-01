@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e88a93f057c55a00ce3df0c0f7adad7",
+    "revision": "9aa31ed65c8fc56f290595edbe33a30b",
     "url": "/can_you_even_lift/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/can_you_even_lift/static/css/2.58e42683.chunk.css"
   },
   {
-    "revision": "427bd965cb34858c6371",
-    "url": "/can_you_even_lift/static/css/main.e389e076.chunk.css"
+    "revision": "97ed69a3b63a02876bd8",
+    "url": "/can_you_even_lift/static/css/main.0da92593.chunk.css"
   },
   {
     "revision": "a3004afff6dd3dff65cd",
     "url": "/can_you_even_lift/static/js/2.1023171d.chunk.js"
   },
   {
-    "revision": "427bd965cb34858c6371",
+    "revision": "97ed69a3b63a02876bd8",
     "url": "/can_you_even_lift/static/js/main.8ce53295.chunk.js"
   },
   {

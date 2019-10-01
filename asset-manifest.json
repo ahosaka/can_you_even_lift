@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/can_you_even_lift/static/css/main.e389e076.chunk.css",
+    "main.css": "/can_you_even_lift/static/css/main.0da92593.chunk.css",
     "main.js": "/can_you_even_lift/static/js/main.8ce53295.chunk.js",
     "main.js.map": "/can_you_even_lift/static/js/main.8ce53295.chunk.js.map",
     "runtime~main.js": "/can_you_even_lift/static/js/runtime~main.c92cc8cb.js",
@@ -9,10 +9,10 @@
     "static/js/2.1023171d.chunk.js": "/can_you_even_lift/static/js/2.1023171d.chunk.js",
     "static/js/2.1023171d.chunk.js.map": "/can_you_even_lift/static/js/2.1023171d.chunk.js.map",
     "index.html": "/can_you_even_lift/index.html",
-    "precache-manifest.ecd055eb6c098b993067924d28eb054a.js": "/can_you_even_lift/precache-manifest.ecd055eb6c098b993067924d28eb054a.js",
+    "precache-manifest.40404777c62ab14cf04d621111625f9a.js": "/can_you_even_lift/precache-manifest.40404777c62ab14cf04d621111625f9a.js",
     "service-worker.js": "/can_you_even_lift/service-worker.js",
     "static/css/2.58e42683.chunk.css.map": "/can_you_even_lift/static/css/2.58e42683.chunk.css.map",
-    "static/css/main.e389e076.chunk.css.map": "/can_you_even_lift/static/css/main.e389e076.chunk.css.map",
+    "static/css/main.0da92593.chunk.css.map": "/can_you_even_lift/static/css/main.0da92593.chunk.css.map",
     "static/media/logo.svg": "/can_you_even_lift/static/media/logo.5d5d9eef.svg"
   }
 }
